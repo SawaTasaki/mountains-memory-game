@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App.css */
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card.flipped {
+  transform: rotateY(180deg); /* Y軸で180度回転 */
+}
+
+.flipped {
+  background-color: rgb(54, 172, 54);
+}
+
+.matched {
+  background-color: #ffcdf6;
+}
