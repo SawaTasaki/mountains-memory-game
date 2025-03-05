@@ -1,5 +1,6 @@
 # mountains-memory-game"
-山の名前のメモリーゲームです。
+山の名前のメモリーゲームです。Vercelでデプロイしました。  
+https://mountains-memory-game.vercel.app/
 
 ### フロントエンド
  - React (≒ Svelte, Vue.js)
@@ -29,3 +30,4 @@ npx prettier . --write
 ### これから知りたいこと
 - TypeScript + SWCは普通のTypeScriptとどう違うのか
 - 設定ファイルが何を設定しているのか分からず初期値のままになっているので、内容を理解したい。
+- Vercelの課金状況が分からないのでちょっと心配。。
