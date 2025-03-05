@@ -1,4 +1,4 @@
-# mountains-memory-game"
+# mountains-memory-game
 山の名前のメモリーゲームです。Vercelでデプロイしました。  
 https://mountains-memory-game.vercel.app/
 
